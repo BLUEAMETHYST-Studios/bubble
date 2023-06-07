@@ -9,8 +9,8 @@ Click [here](https://blueamethyst.me/bubble) to go to the Bubble website.
 
 ## The code
 
-You can find the code of Bubble in the [docs folder](https://github.com/BLUEAMETHYST-Studios/bubble/tree/main/docs). \
-It's build out of one [HTML file](https://github.com/BLUEAMETHYST-Studios/bubble/tree/main/docs/index.html) and one [CSS file](https://github.com/BLUEAMETHYST-Studios/bubble/tree/main/docs/style.css).
+You can find the code of Bubble in the root folder of this github. \
+It's build out of one [HTML file](https://github.com/BLUEAMETHYST-Studios/bubble/tree/main/index.html) and one [CSS file](https://github.com/BLUEAMETHYST-Studios/bubble/tree/main/style.css).
 
 ## Contributing
 

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+body {
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,217,218,1) 100%);
+}
+
+.title {
+    width: 200px;
+    margin: 0 auto;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 800%;
+    font-family: 'Geologica', sans-serif;
+    color: white;
+}
+
+form {
+    margin: 0 auto; 
+    background-color: white;
+    border-radius: 12px;
+    width: 50%;
+}
+
+input {
+	border:none;
+	background-color: transparent;
+	color: black;
+	outline: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 97%;
+    font-size: 16px;
+    font-family: 'Geologica', sans-serif;
+}
+
+.extras {
+    margin-top: 10%;
+    text-align: center;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.links {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.a1 {
+    color: white;
+    text-decoration: none;
+    font-family: 'Geologica', sans-serif;
+}
+
+.a2 {
+    color: white;
+    text-decoration: none;
+    font-family: 'Geologica', sans-serif;
+}
+
+.github {
+    margin-top: 8%;
+    background-color: black;
+    text-align: center;
+    float: left;
+    width: 45%;
+    border-radius: 12px;
+}
+
+.bubble {
+    margin-top: 8%;
+    background-color: black;
+    text-align: center;
+    float: right;
+    width: 45%;
+    border-radius: 12px;
+}
